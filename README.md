@@ -137,6 +137,7 @@ I'm a Principal in Software Quality Assurance, Test & Automation and would love 
 
 <summary><b>💬&nbsp;&nbsp;My Quotes: </b></summary>
 <br/>
+
      If "IF Statement" is NOT executed, then "Else Statement" is executed...
 
 

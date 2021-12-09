@@ -47,6 +47,7 @@ I'm a Principal in Software Quality Assurance, Test & Automation and would love 
 
 <details>
 <summary><b>🛠️  Languages and Tools: </b></summary>
+<br/>
 <p align="left">
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/amiluslu/amiluslu/main/icons/selenium.svg" alt="Selenium" width="40" height="40"/> </a>
 <a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/amiluslu/amiluslu/main/icons/testng.png" alt="TestNG" width="50" height="30"/> </a>

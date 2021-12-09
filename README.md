@@ -45,11 +45,9 @@ I'm a Principal in Software Quality Assurance, Test & Automation and would love 
 
 ---
 
-<details>
-<summary><b>📕&nbsp;&nbsp;Latest Blog Posts</b></summary>
+<b>📕&nbsp;&nbsp;Latest Blog Posts</b>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-</details>
 
 ---
 

@@ -128,8 +128,6 @@ I'm a Principal in Software Quality Assurance, Test & Automation and would love 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiluslu&show_icons=true&locale=en&layout=compact" alt="amiluslu" /></p>
 
----
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amiluslu&show_icons=true&locale=en" alt="amiluslu" /></p>
 
 ---
@@ -138,9 +136,8 @@ I'm a Principal in Software Quality Assurance, Test & Automation and would love 
 
 ---
 
-<summary><b>💬  My Quotes: </b></summary>
-<br/>
-<img width="10" height="10" align="left" src="https://raw.githubusercontent.com/amiluslu/amiluslu/main/icons/quote-open.png" alt="amiluslu" />
-&nbsp;&nbsp;<b>If "IF Statement" is NOT executed, then "Else Statement" is executed... </b>
-<img width="10" height="10" src="https://raw.githubusercontent.com/amiluslu/amiluslu/main/icons/quote-open.png" alt="amiluslu" />
+<summary><b>💬&nbsp;&nbsp;My Quotes: </b></summary>
+
+     If "IF Statement" is NOT executed, then "Else Statement" is executed...
+
 

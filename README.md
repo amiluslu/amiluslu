@@ -45,13 +45,9 @@ I'm a Principal in Software Quality Assurance, Test & Automation and would love 
 
 ---
 
-<details>
-<summary><b>📕&nbsp;&nbsp;Latest Blog Posts</b></summary>
+📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Page Object Model in Automation via Selenium](https://amiluslu.medium.com/page-object-model-in-automation-via-selenium-f6b6e8bb6b99?source=rss-6f653671c775------2)
-- [New Comings with Selenium 4](https://amiluslu.medium.com/new-comings-with-selenium-4-fdf95311e700?source=rss-6f653671c775------2)
 <!-- BLOG-POST-LIST:END -->
-</details>
 
 ---
 

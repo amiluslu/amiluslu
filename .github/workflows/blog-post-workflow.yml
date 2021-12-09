@@ -1,7 +1,5 @@
 name: Latest blog post workflow
 on:
-  push:
-    branches: ["main"]
   workflow_dispatch:
   schedule:
     # Runs every hour
@@ -13,5 +11,5 @@ jobs:
         steps: 
             - uses: actions/checkout@v2
             - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
+              with:
                 feed_list: "https://medium.com/feed/@amiluslu"

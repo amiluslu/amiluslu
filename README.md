@@ -45,14 +45,6 @@ I'm a Principal in Software Quality Assurance, Test & Automation and would love 
 
 ---
 
-<b>📕&nbsp;&nbsp;Latest Blog Posts</b>
-<!-- BLOG-POST-LIST:START -->
-- [Page Object Model in Automation via Selenium](https://amiluslu.medium.com/page-object-model-in-automation-via-selenium-f6b6e8bb6b99?source=rss-6f653671c775------2)
-- [New Comings with Selenium 4](https://amiluslu.medium.com/new-comings-with-selenium-4-fdf95311e700?source=rss-6f653671c775------2)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <details>
 <summary><b>🛠️  Languages and Tools: </b></summary>
 <p align="left">
@@ -133,6 +125,12 @@ I'm a Principal in Software Quality Assurance, Test & Automation and would love 
 ---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amiluslu&" alt="amiluslu" /></p>
+
+---
+
+<b>📕&nbsp;&nbsp;Latest Blog Posts</b>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 

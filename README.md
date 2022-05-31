@@ -114,6 +114,14 @@ I'm a Principal in Software Quality Assurance, Test & Automation and would love 
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/amiluslu/amiluslu/main/icons/swift.svg" alt="swift" width="40" height="40"/> </a> 
 <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/amiluslu/amiluslu/main/icons/travisci.svg" alt="travisci" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/amiluslu/amiluslu/main/icons/typescript.svg" alt="typescript" width="40" height="40"/> </a> 
+<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/amiluslu/amiluslu/main/icons/burpsuite.png" alt="typescript" width="80" height="40"/> </a> 
+<a href="https://hibernate.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/amiluslu/amiluslu/main/icons/hibernate.svg" alt="typescript" width="80" height="40"/> </a> 
+<a href="https://owasp.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/amiluslu/amiluslu/main/icons/owasp.jpg" alt="typescript" width="100" height="40"/> </a> 
+<a href="http://sikulix.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/amiluslu/amiluslu/main/icons/Sikuli.png" alt="typescript" width="80" height="40"/> </a> 
+<a href="https://testlink.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/amiluslu/amiluslu/main/icons/testlink.png" alt="typescript" width="80" height="40"/> </a> 
+<a href="http://w3af.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/amiluslu/amiluslu/main/icons/w3af.png" alt="typescript" width="80" height="40"/> </a> 
+<a href="https://wapiti-scanner.github.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/amiluslu/amiluslu/main/icons/wapiti.png" alt="typescript" width="60" height="40"/> </a> 
+<a href="https://smartbear.com/test-management/zephyr/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/amiluslu/amiluslu/main/icons/zephyr.png" alt="typescript" width="80" height="40"/> </a> 
 </p>
 </details>
 

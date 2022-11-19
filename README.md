@@ -1,10 +1,10 @@
-<h1 align="center">Hi Everyone <img  src="https://raw.githubusercontent.com/amiluslu/amiluslu/main/icons/hi.gif" width=30px"></h1>
+<h1 align="center">Hey ! Nice to see you.  <img  src="https://raw.githubusercontent.com/amiluslu/amiluslu/main/icons/hi.gif" width="2%"></h1>
 
-<details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
+
+<summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+<br/>
 I'm a Principal in Software Quality Assurance, Test & Automation and would love to combine my passion for quality assurance and test automation with my software development skills to continue building personalized productive products for people and companies.
-</details>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amiluslu&label=Profile%20views&color=0e75b6&style=flat" alt="amiluslu" /> </p>
 
@@ -14,17 +14,17 @@ I'm a Principal in Software Quality Assurance, Test & Automation and would love 
 
 ---
 
-- 🔭 I’m currently working on [sahibinden.com](https://sahibinden.com)
+- 🔭 I’m currently working on [Devtuned](https://www.devtuned.com)
 
 - 🌱 I’m currently learning **being a dad...**
 
 - 👯 I’m looking to collaborate on **software quality assurance, test & automation and development...**
 
-- 👨‍💻 All of my projects and descriptions are available at my [LinkedIn](https://www.linkedin.com/in/amil-uslu/)
+- 👨‍💻 All of my projects and descriptions are available at my [LinkedIn](https://www.linkedin.com/in/amil-uslu/) and [Website](https://www.amiluslu.com)
 
 - 💬 Ask me about **software development and quality, whatever you want...**
 
-- 📫 How to reach me **amiluslu@hotmail.com**
+- 📫 How to reach me **contact@amiluslu.com**
 
 - ⚡ Fun fact **playing drums, taking photos..**
 

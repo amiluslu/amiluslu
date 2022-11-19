@@ -1,4 +1,4 @@
-<h1 align="center">Hey ! Nice to see you.  <img  src="https://raw.githubusercontent.com/amiluslu/amiluslu/main/icons/hi.gif" width="2%"></h1>
+<h1 align="center">Hey ! Nice to see you.  <img  src="https://raw.githubusercontent.com/amiluslu/amiluslu/main/icons/hi.gif" width="5%"></h1>
 
 
 <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>

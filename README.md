@@ -150,4 +150,3 @@ I'm a Principal in Software Quality Assurance, Test & Automation and would love 
 
      If "IF Statement" is NOT executed, then "Else Statement" is executed...
 
-

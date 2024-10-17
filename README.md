@@ -3,7 +3,7 @@
 
 <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
 <br/>
-I'm a Principal in Software Quality Assurance, Test & Automation and would love to combine my passion for quality assurance and test automation with my software development skills to continue building personalized productive products for people and companies.
+I am a Principal in Full Stack Software Development and Quality Assurance, and I am passionate about problem solving and combining my expertise in test automation with my software development skills to create personalized, high-performing products for individuals and companies for producing products.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amiluslu&label=Profile%20views&color=0e75b6&style=flat" alt="amiluslu" /> </p>
@@ -14,11 +14,11 @@ I'm a Principal in Software Quality Assurance, Test & Automation and would love 
 
 ---
 
-- 🔭 I’m currently working on [Devtuned](https://www.devtuned.com)
+- 🔭 I’m currently working on [Hexacorp](https://hexacorp.com)
 
 - 🌱 I’m currently learning **being a dad...**
 
-- 👯 I’m looking to collaborate on **software quality assurance, test & automation and development...**
+- 👯 I’m looking to collaborate on **full stack software development & QA automation...**
 
 - 👨‍💻 All of my projects and descriptions are available at my [LinkedIn](https://www.linkedin.com/in/amil-uslu/) and [Website](https://www.amiluslu.com)
 
